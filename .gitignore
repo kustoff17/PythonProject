@@ -1,0 +1,30 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm
+.idea/
+
+# Python кэш и байт-код
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Файлы настроек среды
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# SQLite базы данных (если используются)
+*.sqlite3
+
+# MacOS файлы
+.DS_Store
